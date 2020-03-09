@@ -9,11 +9,21 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Computadoras
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Una computadora es una máquina que puede ejecutar **automáticamente** secuencias de **cálculos** y de **operaciones lógicas**. Estas secuencias son denominadas **programas**.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+Algunas de las principales características de las computadoras modernas son:
+
+- Son electrónicas.
+- Son digitales.
+- Son binarias.
+- Son **programables**.
+
+## Computadoras (continuación)
+
+- En las computadoras modernas, es posible cambiar los programas que ejecutan sin necesidad de alterar sus componentes físicos.
+- Los programas pueden desarrollarse con fines muy diversos, lo que le da a las computadoras una gran versatilidad con respecto a otras máquinas que solamente realizan tareas predefinidas (ej. calculadoras).
 
 ## Slide with Bullets
 
