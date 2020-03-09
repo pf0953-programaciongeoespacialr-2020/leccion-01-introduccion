@@ -32,19 +32,11 @@ Algunas de las principales características de las computadoras modernas son:
 _"Es indigno de hombres excelentes perder horas como esclavos en el trabajo del cálculo, porque si se usaran máquinas, podría delegarse con seguridad a cualquier persona"_ (Gottfried Leibniz).
 
 
-## Evolución de la computadora {.flexbox .vcenter}
+## Primera computadora programable {.flexbox .vcenter}
 
 ![Máquina diferencial de Charles Babbage (1837)](img/1024px-AnalyticalMachine_Babbage_London.jpg){width=400px}
 
-## Slide with R Output
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## Computadoras digitales {.flexbox .vcenter}
 
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
+![ENIAC (1946)](img/Eniac.jpg){width=600px}
