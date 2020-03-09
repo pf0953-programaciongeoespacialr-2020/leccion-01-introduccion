@@ -25,9 +25,16 @@ Algunas de las principales características de las computadoras modernas son:
 - En las computadoras modernas, es posible cambiar los programas que ejecutan sin necesidad de alterar sus componentes físicos.
 - Los programas pueden desarrollarse con fines muy diversos, lo que le da a las computadoras una gran versatilidad con respecto a otras máquinas que solamente realizan tareas predefinidas (ej. calculadoras).
 
+## Máquinas de cálculo {.flexbox .vcenter}
+
+!["Stepped Reckoner de Gottfried Leibniz (1670)](img/Leibnitzrechenmaschine.jpg){width=400px}
+
+_"Es indigno de hombres excelentes perder horas como esclavos en el trabajo del cálculo, porque si se usaran máquinas, podría delegarse con seguridad a cualquier persona"_ (Gottfried Leibniz).
+
+
 ## Evolución de la computadora {.flexbox .vcenter}
 
-![Máquina diferencial de Charles Babbage (siglo XIX)](img/BabbageDifferenceEngine.jpg){width=400px}
+![Máquina diferencial de Charles Babbage (1837)](img/1024px-AnalyticalMachine_Babbage_London.jpg){width=400px}
 
 ## Slide with R Output
 
