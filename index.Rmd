@@ -1,7 +1,7 @@
 ---
-title: "GF-0604 Procesamiento<br>de datos geográficos<br><br>Introducción"
+title: PF-0953 Programación geoespacial en R<br><br>Introducción
 author: "Manuel Vargas"
-date: "2020-03-09"
+date: "2020-08-12"
 output: ioslides_presentation
 ---
 
