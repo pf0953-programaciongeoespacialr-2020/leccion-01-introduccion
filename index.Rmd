@@ -1,7 +1,7 @@
 ---
 title: PF-0953 Programación geoespacial en R<br><br>Introducción
 author: "Manuel Vargas"
-date: "2020-08-11"
+date: "2020-08-12"
 output: ioslides_presentation
 ---
 
